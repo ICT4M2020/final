@@ -1,0 +1,26 @@
+h1{
+  font-style: bold;
+  font-size: 50px;
+padding-right: 50px;
+padding-bottom: 20px;
+padding-left: 50px;
+  color: #e84855;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+#bt{
+    background: #e84855;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20%;
+    height: 50px;
+    width: 200px;
+    margin-left: 43%;
+}
+#check{
+  margin-top: 20px;
+  margin-left: 43%;
+  height: 200px;
+  width: 200px;
+  display: inline;
+  align-items: center;
+}
