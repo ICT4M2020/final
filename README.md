@@ -1,12 +1,8 @@
 # appendices
-
 PLUS ICON
 <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-from www.flaticon.com
-
 MINUS ICON
 <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-from www.flaticon.com
 
 MASTERCARD ICON
 <a href="https://icons8.com/icon/70558/mastercard">MasterCard icon by Icons8</a>
