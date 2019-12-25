@@ -20,6 +20,26 @@ Countdown timer-third party(API)
 
 https://www.timeanddate.com/clocks/freecountdown.html
 
+More..(Toggle)
+
+https://jqueryui.com/toggle/
+
+TAN SRI PROF DR MOHD KAMAL HASSAN ICON
+
+http://www.iium.edu.my/capeu2016/index.php/program/keynote-speakers/
+
+DATUK DR MOHD DAUD BAKAR ICON
+
+http://www.shariahminds.com/author
+
+DATO' IR. DR. WAN RAMLI WAN DAUD ICON
+
+http://www.merdekaaward.my/Recipients/By-Year/2016/Professor-Dato%E2%80%99-Ir-Dr-Wan-Ramli-Wan-Daud.aspx
+
+SLIDESHOW
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow_multiple
+
 
 
 
